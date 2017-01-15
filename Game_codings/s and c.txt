@@ -1,0 +1,37 @@
+Abia State		Umuahia
+Adamawa State		Yola
+Akwa Ibom State		Uyo
+Anambra State		Awka
+Bauchi State		Bauchi
+Bayelsa State		Yenagoa
+Benue State		Makurdi
+Borno State		Maiduguri
+Cross-River State		Calabar
+Delta State		Warri
+Ebonyi State		Abakaliki
+Edo State		Benin
+Ekiti State		Ado-Ekiti
+Enugu State		Enugu
+FCT		Abuja
+Gombe State		Gombe
+Imo State		Owerri
+Jigawa State		Dutse
+Kaduna State		Kaduna
+Kano State		Kano
+Katsina State		Katsina
+Kebbi State		Birnin Kebbi
+Kogi State		Lokoja
+Kwara State		Ilorin
+Lagos State		Ikeja
+Nasarawa State		Lafia
+Niger State		Minna
+Ogun State		Abeokuta
+Ondo State		Akure
+Osun State		Oshogbo
+Oyo State		Ibadan
+Plateau State		Jos
+Rivers State		Port-Harcourt
+Sokoto State		Sokoto
+Taraba State		Jalingo
+Yobe State		Damaturu
+Zamfara State		Gusau

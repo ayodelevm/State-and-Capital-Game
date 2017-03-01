@@ -74,7 +74,7 @@ with open(r"C:\Program Files (x86)\Python27\s and c.txt", "r") as f:
                         print("\nThe capital of " + guess_key + " is " + v + "")
                         print("\nGame Over!")
 
-                        print("\nYour score is: " + str(comp_guess))
+                        print("\nYour score is: " + str(comp_guess - 1))
                         break
 
                 print("\nThanks for playing, you can try again later!")
